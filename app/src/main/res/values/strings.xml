@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">TP2Kotlin</string>
+    <string name="mobile_0973063537" translatable="false">Mobile: 0973063537</string>
+    <string name="e_mail_myriamnyembo5_gmail_com" translatable="false">E-mail: myriamnyembo5@gmail.com</string>
+    <string name="cours_de_langage_de_programmation_mobile_2" translatable="false">Cours de Langage de programmation Mobile 2</string>
+    <string name="no_matricule_si_20202126" translatable="false">No Matricule: SI/20202126</string>
+    <string name="nom_nyembo_mukeina_myriam" translatable="false">Nom: NYEMBO MUKEINA Myriam!</string>
+    <string name="hello_android" translatable="false">Hello Android!</string>
+    <string name="cccc" translatable="false">Cours de Langage de programmation Mobile 2</string>
+    <string name="filiere_genie_logiciel" translatable="false">Filiere: Genie Logiciel!</string>
+    <string name="promotion_master_1" translatable="false">Promotion: Master 1</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="cliquez_ici">Cliquez ici</string>
+</resources>
